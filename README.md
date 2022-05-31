@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
-conflictブランチで変更（コンフリクト発生）
-git-hub上で更新2回目
+rebase pull用
+stash練習
